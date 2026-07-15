@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ef038/v1
 canonical_location: https://kanripo.org/bkk/KR3ef038/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 傷寒六書
   identifiers:
@@ -17,20 +17,20 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ef038_000.yaml, hash: 'sha256:159ccb54462aa92b3f7ab9c2543cfda0b40defc96a03501f869ea171bb94adbe'}
-  - {seq: 1, filename: KR3ef038_001.yaml, hash: 'sha256:43edd230a16129be6b83ccbcf6015f1ece47774c5470627a5f437ed9347e1fc6'}
-  - {seq: 2, filename: KR3ef038_002.yaml, hash: 'sha256:f5cb4cc5fc03690712fabdb1b52a3ba04f38fb9805a7c47882a3d8607537cc48'}
-  - {seq: 3, filename: KR3ef038_003.yaml, hash: 'sha256:97d556bca3e85036390bcdda0962b6466e58ef641b6d1be4d726743e20e59add'}
-  - {seq: 1, filename: KR3ef038_001.yaml, hash: 'sha256:43edd230a16129be6b83ccbcf6015f1ece47774c5470627a5f437ed9347e1fc6'}
-  - {seq: 5, filename: KR3ef038_005.yaml, hash: 'sha256:8ee6273b995fed49d8ec2c99d6a8ab9dbe747e276a0544773485ed8e3364a86a'}
-  - {seq: 6, filename: KR3ef038_006.yaml, hash: 'sha256:3552c53db730764e89e96380da51dc463db140d4c402ca4824850a10968c07fb'}
+  - {seq: 0, filename: KR3ef038_000.yaml, hash: 'sha256:95a4710f370a5a21f0e2c32efc5fbe410731eb8662c5bf225cb48ef7cd12730b'}
+  - {seq: 1, filename: KR3ef038_001.yaml, hash: 'sha256:b2b96035ed05ec93fa5892f5e3c4a87ba1f24a0f22ffa6dbcb9f8ae36b1b3ae6'}
+  - {seq: 2, filename: KR3ef038_002.yaml, hash: 'sha256:2d72a4ab4fa95385a5812cb5d7a35f2a76761675fba9a1bfea34343ea51b5ba4'}
+  - {seq: 3, filename: KR3ef038_003.yaml, hash: 'sha256:bf4b8168efbd2ea6acba35043448eee208ee284b102ad232ae2ff3789af4420f'}
+  - {seq: 1, filename: KR3ef038_001.yaml, hash: 'sha256:b2b96035ed05ec93fa5892f5e3c4a87ba1f24a0f22ffa6dbcb9f8ae36b1b3ae6'}
+  - {seq: 5, filename: KR3ef038_005.yaml, hash: 'sha256:46b8d9a72f20e9c735b3dcee93390f946e120d09cedd8d1ecc7147539e02ecf1'}
+  - {seq: 6, filename: KR3ef038_006.yaml, hash: 'sha256:d81a56530ded084c8f8ea6e41c708e44a394852dd1b1967233dcf682d54ae21a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ef038_000.markers.yaml, hash: 'sha256:1331d632f12b3a27d1ef16fe6dcbc670906c2af41a896c2ceb9b3dc7eae3f023'}
-  - {seq: 1, role: markers, filename: assets/KR3ef038_001.markers.yaml, hash: 'sha256:59634890e77dea40a1e16f8fd5f136100af393760bb384cfac022219129d70e1'}
-  - {seq: 2, role: markers, filename: assets/KR3ef038_002.markers.yaml, hash: 'sha256:e34cec78ae2504ecf5e5f58bdbc2c6c3d8b1c01641ada7608ee1ab9f55e0e9fc'}
-  - {seq: 3, role: markers, filename: assets/KR3ef038_003.markers.yaml, hash: 'sha256:be0e2af4c0db116949f476e04499c71f08cede758244bebf249473bb805cd9ef'}
-  - {seq: 5, role: markers, filename: assets/KR3ef038_005.markers.yaml, hash: 'sha256:28509dde45cb6bfbacd862fd78ff604f1ce0bfa83e1b8f8716a9aefbcdd3b71a'}
-  - {seq: 6, role: markers, filename: assets/KR3ef038_006.markers.yaml, hash: 'sha256:d5a4f3d176b3420d05513ad78eabe56c2e4252dc7b5110ebc21adbdc39083b83'}
+  - {seq: 0, role: markers, filename: assets/KR3ef038_000.markers.yaml, hash: 'sha256:8b5e2a32bf120162afb0b9da09bffb24009756d14d9f76de83a5091a71e500d8'}
+  - {seq: 1, role: markers, filename: assets/KR3ef038_001.markers.yaml, hash: 'sha256:356f08072415d9e37e4c8fdb1b8a7fb7e7a40569bafdd716307a12b4907948ba'}
+  - {seq: 2, role: markers, filename: assets/KR3ef038_002.markers.yaml, hash: 'sha256:77c98f953477cd48794c9ee78fb5f13184dee725e369ea0c6bfda3c6ebb0dbfe'}
+  - {seq: 3, role: markers, filename: assets/KR3ef038_003.markers.yaml, hash: 'sha256:157b92bd48dd66773f6cd322b1c2dd612a3cb7a31807778b73ea49c08f85d7b8'}
+  - {seq: 5, role: markers, filename: assets/KR3ef038_005.markers.yaml, hash: 'sha256:da4d8362534d9078b1e454c02760eca92c27086114500b0422b742276f193ccf'}
+  - {seq: 6, role: markers, filename: assets/KR3ef038_006.markers.yaml, hash: 'sha256:6a5a90768c821681a8f3cd995f9a79aac73024385d7d2fd54f8bef0619d3319d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2682,4 +2682,7 @@ table_of_contents:
   label: 熱入血室
   type: section
   level: 3
-hash: sha256:4090b5092f0bb4ad07deaa222446947f7e9fd50fac605233573d436f1b6b1dfd
+hash: sha256:5582ce19be868c06754664ed84cd2a22dda5e768e32b708f8becc756310d3ee1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
