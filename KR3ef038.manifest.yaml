@@ -28,7 +28,7 @@ assets:
   - {seq: 0, role: markers, filename: assets/KR3ef038_000.markers.yaml, hash: 'sha256:8b5e2a32bf120162afb0b9da09bffb24009756d14d9f76de83a5091a71e500d8'}
   - {seq: 1, role: markers, filename: assets/KR3ef038_001.markers.yaml, hash: 'sha256:356f08072415d9e37e4c8fdb1b8a7fb7e7a40569bafdd716307a12b4907948ba'}
   - {seq: 2, role: markers, filename: assets/KR3ef038_002.markers.yaml, hash: 'sha256:77c98f953477cd48794c9ee78fb5f13184dee725e369ea0c6bfda3c6ebb0dbfe'}
-  - {seq: 3, role: markers, filename: assets/KR3ef038_003.markers.yaml, hash: 'sha256:157b92bd48dd66773f6cd322b1c2dd612a3cb7a31807778b73ea49c08f85d7b8'}
+  - {seq: 3, role: markers, filename: assets/KR3ef038_003.markers.yaml, hash: 'sha256:17d50bec4e9b3c22839e005df8dbda8b23724e804ea67a2bb3193eff84380249'}
   - {seq: 5, role: markers, filename: assets/KR3ef038_005.markers.yaml, hash: 'sha256:da4d8362534d9078b1e454c02760eca92c27086114500b0422b742276f193ccf'}
   - {seq: 6, role: markers, filename: assets/KR3ef038_006.markers.yaml, hash: 'sha256:6a5a90768c821681a8f3cd995f9a79aac73024385d7d2fd54f8bef0619d3319d'}
 table_of_contents:
@@ -2682,7 +2682,7 @@ table_of_contents:
   label: 熱入血室
   type: section
   level: 3
-hash: sha256:5582ce19be868c06754664ed84cd2a22dda5e768e32b708f8becc756310d3ee1
+hash: sha256:ca4bb46b9b72218217869dc940e8d219f0d9cadb579afb1dacd03131d989aa67
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

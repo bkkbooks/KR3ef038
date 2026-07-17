@@ -1257,6 +1257,7 @@ markers:
   - {type: 'tls:seg-end', offset: 2827, content: '', id: KR3ef038_jc_003-d7.d8.p20s2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 2827, content: '', id: KR3ef038_jc_003-d7.d8.p20s3}
   - {type: punctuation, offset: 2829, content: (, id: KR3ef038_jc_003-bkkpn566}
+  - {type: voice, offset: 2829, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 2831, content: ), id: KR3ef038_jc_003-bkkpn567}
   - {type: 'tls:seg', offset: 2831, content: '', id: KR3ef038_jc_003-d7.d8.p20s4}
   - {type: 'tls:seg-start', offset: 2833, content: '', id: KR3ef038_jc_003-d7.d8.p20s5, seg_type: comm, member_ids: [KR3ef038_jc_003-d7.d8.p20s5]}
@@ -1266,18 +1267,23 @@ markers:
   - {type: 'tls:seg-end', offset: 2836, content: '', id: KR3ef038_jc_003-d7.d8.p20s5_end, seg_type: comm}
   - {type: 'tls:seg', offset: 2836, content: '', id: KR3ef038_jc_003-d7.d8.p20s6}
   - {type: punctuation, offset: 2838, content: (, id: KR3ef038_jc_003-bkkpn570}
+  - {type: voice, offset: 2838, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 2840, content: ), id: KR3ef038_jc_003-bkkpn571}
   - {type: 'tls:seg', offset: 2840, content: '', id: KR3ef038_jc_003-d7.d8.p20s7}
   - {type: punctuation, offset: 2842, content: (, id: KR3ef038_jc_003-bkkpn572}
+  - {type: voice, offset: 2842, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 2844, content: ), id: KR3ef038_jc_003-bkkpn573}
   - {type: 'tls:seg', offset: 2844, content: '', id: KR3ef038_jc_003-d7.d8.p20s8}
   - {type: punctuation, offset: 2846, content: (, id: KR3ef038_jc_003-bkkpn574}
+  - {type: voice, offset: 2846, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 2848, content: ), id: KR3ef038_jc_003-bkkpn575}
   - {type: 'tls:seg', offset: 2848, content: '', id: KR3ef038_jc_003-d7.d8.p20s9}
   - {type: punctuation, offset: 2850, content: (, id: KR3ef038_jc_003-bkkpn576}
+  - {type: voice, offset: 2850, length: 2, name: note, id: n5}
   - {type: punctuation, offset: 2852, content: ), id: KR3ef038_jc_003-bkkpn577}
   - {type: 'tls:seg', offset: 2852, content: '', id: KR3ef038_jc_003-d7.d8.p20s10}
   - {type: punctuation, offset: 2855, content: (, id: KR3ef038_jc_003-bkkpn578}
+  - {type: voice, offset: 2855, length: 2, name: note, id: n6}
   - {type: punctuation, offset: 2857, content: ), id: KR3ef038_jc_003-bkkpn579}
   - {type: 'tls:seg', offset: 2857, content: '', id: KR3ef038_jc_003-d7.d8.p20s11}
   - {type: 'tls:seg-start', offset: 2859, content: '', id: KR3ef038_jc_003-d7.d8.p20s12, seg_type: comm, member_ids: [KR3ef038_jc_003-d7.d8.p20s12, KR3ef038_jc_003-d7.d8.p20s13]}
@@ -2478,9 +2484,11 @@ markers:
   - {type: 'tls:seg-end', offset: 5245, content: '', id: KR3ef038_jc_003-d7.d8.p94s8_end, seg_type: comm}
   - {type: 'tls:seg', offset: 5245, content: '', id: KR3ef038_jc_003-d7.d8.p94s9}
   - {type: punctuation, offset: 5247, content: (, id: KR3ef038_jc_003-bkkpn1103}
+  - {type: voice, offset: 5247, length: 2, name: note, id: n7}
   - {type: punctuation, offset: 5249, content: ), id: KR3ef038_jc_003-bkkpn1104}
   - {type: 'tls:seg', offset: 5249, content: '', id: KR3ef038_jc_003-d7.d8.p94s10}
   - {type: punctuation, offset: 5251, content: (, id: KR3ef038_jc_003-bkkpn1105}
+  - {type: voice, offset: 5251, length: 2, name: note, id: n8}
   - {type: punctuation, offset: 5253, content: ), id: KR3ef038_jc_003-bkkpn1106}
   - {type: xml-element, offset: 5253, content: '', id: KR3ef038_jc_003-d7.d8p94_end, name: p, role: close, attrs: {'xml:id': KR3ef038_jc_003-d7.d8p94}}
   - {type: xml-element, offset: 5253, content: '', id: KR3ef038_jc_003-d7.d8p96, name: p, role: open, attrs: {'xml:id': KR3ef038_jc_003-d7.d8p96}}
@@ -4473,4 +4481,4 @@ markers:
   - {type: punctuation, offset: 9020, content: 。, id: KR3ef038_jc_003-bkkpn1874}
   - {type: xml-element, offset: 9020, content: '', id: KR3ef038_jc_003-d7.d8p278_end, name: p, role: close, attrs: {'xml:id': KR3ef038_jc_003-d7.d8p278}}
   back: []
-hash: sha256:156ad5a5fa70eb46a31619d33c322d1d8eea41f91fd944c15a7e8edb64acb4de
+hash: sha256:8d4c48e052ae2d9902c30e8c75f7b081beff2947b8ed2211956c4933e38239f7
