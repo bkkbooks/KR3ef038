@@ -17,7 +17,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3ef038_000-jc.yaml, hash: 'sha256:159ccb54462aa92b3f7ab9c2543cfda0b40defc96a03501f869ea171bb94adbe'}
+  - {seq: 0, filename: KR3ef038_000-jc.yaml, hash: 'sha256:56d444aef9301e7e1554d1692082bb893257ca5d15264bd79776532c97715abc'}
   - {seq: 1, filename: KR3ef038_001-jc.yaml, hash: 'sha256:c0515308a27ddeaa668afb1012a3f3efae075fe978f406a94c027242d4dd7bb3'}
   - {seq: 2, filename: KR3ef038_002-jc.yaml, hash: 'sha256:f5cb4cc5fc03690712fabdb1b52a3ba04f38fb9805a7c47882a3d8607537cc48'}
   - {seq: 3, filename: KR3ef038_003-jc.yaml, hash: 'sha256:97d556bca3e85036390bcdda0962b6466e58ef641b6d1be4d726743e20e59add'}
@@ -25,7 +25,7 @@ assets:
   - {seq: 5, filename: KR3ef038_005-jc.yaml, hash: 'sha256:8ee6273b995fed49d8ec2c99d6a8ab9dbe747e276a0544773485ed8e3364a86a'}
   - {seq: 6, filename: KR3ef038_006-jc.yaml, hash: 'sha256:3552c53db730764e89e96380da51dc463db140d4c402ca4824850a10968c07fb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ef038_000-jc.markers.yaml, hash: 'sha256:bed9b3b5f61a85aa21b35024c888d2f752a98dd0d10109654ddc1284df94df3c'}
+  - {seq: 0, role: markers, filename: assets/KR3ef038_000-jc.markers.yaml, hash: 'sha256:c7f4c1c357497a910ca662b0d8a8d385ca0465efd82e8147ab66773612a691d9'}
   - {seq: 1, role: markers, filename: assets/KR3ef038_001-jc.markers.yaml, hash: 'sha256:0e242eb6fcadc6b3652562c276c1d9ef909fc5a6582478264d34cf93f53932ee'}
   - {seq: 2, role: markers, filename: assets/KR3ef038_002-jc.markers.yaml, hash: 'sha256:de432d000c0e22aebdc61369f2adb258963115a3397b243edf98e6504f9546c0'}
   - {seq: 3, role: markers, filename: assets/KR3ef038_003-jc.markers.yaml, hash: 'sha256:8d4c48e052ae2d9902c30e8c75f7b081beff2947b8ed2211956c4933e38239f7'}
@@ -36,7 +36,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ef038_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 448
   label: 傷寒瑣言序
@@ -46,7 +46,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ef038_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 448
     - 941
   label: 明理續論序
@@ -56,7 +56,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ef038_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 941
     - 1252
   label: 刻陶節菴傷寒六書序
@@ -2682,4 +2682,4 @@ table_of_contents:
   label: 熱入血室
   type: section
   level: 3
-hash: sha256:9842e30142c31d50c27678ec3585474d934321b949cb1f31f673b3b155eafe5b
+hash: sha256:fafa540bca041140e0a34ec42d7cc06a129b52442b5c1501065f35537085d1c0
